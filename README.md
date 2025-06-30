@@ -1,5 +1,10 @@
 # Lucas Ferreira
-Olá! Eu sou o Lucas e estou procurando emprego na área de "TI". Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera (4° Semestre). Tenho conhecimento em algumas linguagens de programações, bancos de dados, nuvem e habilidades básicas em Power BI. Sou muito esforçado e motivado a evoluir intelectualmente a todo momento, me encaixo no perfil curioso e pensamento critíco, além de ter facilidade em gerar novas idéias para melhorias de trabalhos em equipes. 
+Hello! My name is Lucas, and I am actively seeking opportunities in the Information Technology field.
+I am currently pursuing a degree in Systems Analysis and Development at Anhanguera University (4th semester).
+I have foundational knowledge in programming languages, databases, cloud computing, and basic proficiency in Power BI.
+
+I am a highly motivated and dedicated individual, always striving for intellectual growth. I possess a curious mindset, strong critical thinking skills, and I’m proactive in contributing innovative ideas to improve teamwork and project outcomes.
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-ferreira-140307235/)
